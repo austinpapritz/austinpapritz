@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Austin Papritz from Portland, Oregon
 
-I'm currently working on this page here is some info to start:
+I'm currently working on this page, but here is some info to start:
 
 
 - 🔭 I’m currently working on an Oregon Trail themed full CRUD React project
