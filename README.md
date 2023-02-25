@@ -3,7 +3,7 @@
 I'm currently working on this page, but here is some info to start:
 
 
-- 🔭 I’m currently working on an Oregon Trail themed full CRUD React project
+- 🔭 I’m currently working on a synthesizer app with 3D visualizer
 - 🌱 I’m currently learning CSS position absolute vs. relative.
 - 👯 I’m looking to collaborate on projects for my portfolio
 - 🤔 I’m looking for help with setting up a shopping cart.
