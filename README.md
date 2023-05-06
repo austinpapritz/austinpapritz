@@ -3,8 +3,8 @@
 I'm currently working on this page, but here is some info to start:
 
 
-- 🔭 I’m currently working on a synthesizer app with 3D visualizer
-- 🌱 I’m currently learning Three.js
+- 🔭 I’m currently working on a standalone desktop password manager app with browser extension.
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on projects for my portfolio
 - 🤔 I’m looking for help with creating a portfolio.
 - 💬 Ask me about adventuring, rock climbing, or running.
