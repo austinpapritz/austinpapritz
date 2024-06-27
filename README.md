@@ -2,7 +2,7 @@
 
 I'm currently working on this page, but here is some info to start:
 
-- 🔭 I’m currently working on a standalone desktop password manager app called Passiroo using Electron frontend and Python backend.
+- 🔭 I’m currently working on learning GLSL and practicing shaders.
 - 🌱 I’m currently honing skills in AWS, Docker, Kubernetes, and Three.js.
 - 👯 I’m looking for a great team to join.
 - 💬 Ask me about adventuring, rock climbing, or running.
